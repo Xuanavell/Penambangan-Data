@@ -1,0 +1,381 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>tanggal</b></th><th><b>pm_10</b></th><th><b>pm_duakomalima</b></th><th><b>so2</b></th><th><b>co</b></th><th><b>o3</b></th><th><b>no2</b></th><th><b>max</b></th><th><b>critical</b></th><th><b>categori</b></th><th><b>lokasi_spku</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>202212</td><td>44926.625</td><td>54</td><td>73</td><td>56</td><td>24</td><td>23</td><td>24</td><td>73</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-30</td><td>40</td><td>64</td><td>57</td><td>21</td><td>17</td><td>24</td><td>64</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-06</td><td>75</td><td>129</td><td>45</td><td>25</td><td>71</td><td>26</td><td>129</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-05</td><td>66</td><td>110</td><td>47</td><td>16</td><td>61</td><td>23</td><td>110</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-04</td><td>56</td><td>78</td><td>49</td><td>11</td><td>60</td><td>13</td><td>78</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-03</td><td>78</td><td>126</td><td>48</td><td>17</td><td>126</td><td>25</td><td>126</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI2</td></tr>
+        <tr><td>202207</td><td>2022-07-02</td><td>81</td><td>137</td><td>47</td><td>18</td><td>106</td><td>29</td><td>137</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-01</td><td>68</td><td>109</td><td>50</td><td>12</td><td>91</td><td>19</td><td>109</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-31</td><td>85</td><td>148</td><td>51</td><td>25</td><td>74</td><td>37</td><td>148</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-30</td><td>59</td><td>84</td><td>50</td><td>15</td><td>56</td><td>29</td><td>84</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-29</td><td>58</td><td>82</td><td>49</td><td>16</td><td>55</td><td>29</td><td>82</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-28</td><td>64</td><td>85</td><td>49</td><td>17</td><td>56</td><td>30</td><td>85</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202208</td><td>2022-08-27</td><td>80</td><td>130</td><td>50</td><td>25</td><td>57</td><td>37</td><td>130</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-26</td><td>76</td><td>119</td><td>53</td><td>19</td><td>53</td><td>31</td><td>119</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-25</td><td>64</td><td>98</td><td>50</td><td>12</td><td>66</td><td>19</td><td>98</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-24</td><td>71</td><td>119</td><td>50</td><td>15</td><td>82</td><td>20</td><td>119</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-23</td><td>76</td><td>116</td><td>49</td><td>17</td><td>81</td><td>27</td><td>116</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-22</td><td>57</td><td>78</td><td>49</td><td>13</td><td>79</td><td>22</td><td>79</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202208</td><td>2022-08-21</td><td>59</td><td>101</td><td>49</td><td>13</td><td>65</td><td>17</td><td>101</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-20</td><td>76</td><td>117</td><td>50</td><td>14</td><td>69</td><td>18</td><td>117</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-19</td><td>70</td><td>105</td><td>49</td><td>14</td><td>66</td><td>26</td><td>105</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-18</td><td>64</td><td>89</td><td>49</td><td>25</td><td>84</td><td>28</td><td>89</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-17</td><td>55</td><td>78</td><td>48</td><td>17</td><td>108</td><td>25</td><td>108</td><td>O3</td><td>TIDAK SEHAT</td><td>DKI2</td></tr>
+        <tr><td>202208</td><td>2022-08-16</td><td>61</td><td>89</td><td>51</td><td>15</td><td>181</td><td>33</td><td>181</td><td>O3</td><td>TIDAK SEHAT</td><td>DKI2</td></tr>
+        <tr><td>202208</td><td>2022-08-15</td><td>64</td><td>84</td><td>50</td><td>17</td><td>63</td><td>28</td><td>84</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-14</td><td>68</td><td>93</td><td>50</td><td>14</td><td>80</td><td>20</td><td>93</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-13</td><td>58</td><td>77</td><td>48</td><td>21</td><td>76</td><td>36</td><td>77</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202208</td><td>2022-08-12</td><td>65</td><td>94</td><td>49</td><td>17</td><td>97</td><td>25</td><td>97</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202208</td><td>2022-08-11</td><td>74</td><td>107</td><td>52</td><td>19</td><td>80</td><td>27</td><td>107</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-10</td><td>73</td><td>116</td><td>49</td><td>19</td><td>82</td><td>29</td><td>116</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-09</td><td>61</td><td>88</td><td>50</td><td>14</td><td>103</td><td>21</td><td>103</td><td>O3</td><td>TIDAK SEHAT</td><td>DKI2</td></tr>
+        <tr><td>202208</td><td>2022-08-08</td><td>60</td><td>84</td><td>48</td><td>18</td><td>97</td><td>27</td><td>97</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202208</td><td>2022-08-07</td><td>76</td><td>119</td><td>50</td><td>18</td><td>114</td><td>29</td><td>119</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-06</td><td>69</td><td>101</td><td>49</td><td>19</td><td>87</td><td>29</td><td>101</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-05</td><td>60</td><td>82</td><td>47</td><td>17</td><td>79</td><td>26</td><td>82</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-04</td><td>69</td><td>99</td><td>48</td><td>15</td><td>82</td><td>20</td><td>99</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-03</td><td>82</td><td>141</td><td>51</td><td>19</td><td>129</td><td>24</td><td>141</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202208</td><td>2022-08-02</td><td>67</td><td>113</td><td>50</td><td>15</td><td>84</td><td>28</td><td>113</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-01</td><td>83</td><td>130</td><td>51</td><td>15</td><td>42</td><td>25</td><td>130</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-30</td><td>71</td><td>103</td><td>51</td><td>14</td><td>45</td><td>23</td><td>103</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-29</td><td>62</td><td>100</td><td>51</td><td>14</td><td>50</td><td>21</td><td>100</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-28</td><td>62</td><td>92</td><td>51</td><td>13</td><td>55</td><td>24</td><td>92</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-27</td><td>63</td><td>86</td><td>51</td><td>14</td><td>58</td><td>26</td><td>86</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-26</td><td>57</td><td>79</td><td>51</td><td>14</td><td>56</td><td>26</td><td>79</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202209</td><td>2022-09-25</td><td>58</td><td>94</td><td>50</td><td>14</td><td>48</td><td>25</td><td>94</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-24</td><td>57</td><td>83</td><td>50</td><td>17</td><td>39</td><td>33</td><td>83</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-23</td><td>73</td><td>97</td><td>50</td><td>24</td><td>50</td><td>45</td><td>97</td><td>PM2,5</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202209</td><td>2022-09-22</td><td>63</td><td>90</td><td>50</td><td>16</td><td>37</td><td>24</td><td>90</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202209</td><td>2022-09-21</td><td>69</td><td>112</td><td>50</td><td>17</td><td>42</td><td>32</td><td>112</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-20</td><td>66</td><td>110</td><td>51</td><td>21</td><td>37</td><td>41</td><td>110</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-19</td><td>70</td><td>113</td><td>51</td><td>17</td><td>46</td><td>28</td><td>113</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-18</td><td>72</td><td>113</td><td>51</td><td>21</td><td>43</td><td>33</td><td>113</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-17</td><td>70</td><td>103</td><td>51</td><td>19</td><td>49</td><td>35</td><td>103</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-16</td><td>62</td><td>100</td><td>51</td><td>18</td><td>52</td><td>33</td><td>100</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-15</td><td>78</td><td>117</td><td>51</td><td>26</td><td>34</td><td>39</td><td>117</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-14</td><td>67</td><td>113</td><td>53</td><td>18</td><td>42</td><td>38</td><td>113</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-13</td><td>59</td><td>81</td><td>52</td><td>18</td><td>45</td><td>32</td><td>81</td><td>PM2,5</td><td>SEDANG</td><td>DKI1</td></tr>
+        <tr><td>202209</td><td>2022-09-12</td><td>53</td><td>79</td><td>52</td><td>18</td><td>35</td><td>27</td><td>79</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-11</td><td>64</td><td>88</td><td>51</td><td>20</td><td>37</td><td>34</td><td>88</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-10</td><td>56</td><td>72</td><td>48</td><td>22</td><td>41</td><td>39</td><td>72</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-09</td><td>71</td><td>91</td><td>49</td><td>28</td><td>32</td><td>43</td><td>91</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202209</td><td>2022-09-08</td><td>61</td><td>87</td><td>48</td><td>26</td><td>32</td><td>45</td><td>87</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-07</td><td>55</td><td>79</td><td>49</td><td>15</td><td>38</td><td>21</td><td>79</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-06</td><td>63</td><td>86</td><td>51</td><td>12</td><td>43</td><td>17</td><td>86</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-05</td><td>59</td><td>105</td><td>51</td><td>15</td><td>45</td><td>23</td><td>105</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-04</td><td>42</td><td>76</td><td>50</td><td>9</td><td>33</td><td>14</td><td>76</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-03</td><td>64</td><td>102</td><td>50</td><td>18</td><td>37</td><td>31</td><td>102</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202209</td><td>2022-09-02</td><td>71</td><td>108</td><td>51</td><td>21</td><td>35</td><td>32</td><td>108</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-26</td><td>39</td><td>43</td><td>51</td><td>11</td><td>27</td><td>17</td><td>51</td><td>SO2</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-25</td><td>27</td><td>53</td><td>51</td><td>9</td><td>30</td><td>19</td><td>53</td><td>PM2,5</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202210</td><td>2022-10-24</td><td>41</td><td>57</td><td>50</td><td>10</td><td>31</td><td>18</td><td>57</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-23</td><td>52</td><td>66</td><td>51</td><td>11</td><td>45</td><td>21</td><td>66</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-22</td><td>58</td><td>82</td><td>51</td><td>19</td><td>39</td><td>41</td><td>82</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-21</td><td>52</td><td>67</td><td>50</td><td>16</td><td>31</td><td>27</td><td>67</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-20</td><td>67</td><td>88</td><td>51</td><td>28</td><td>47</td><td>45</td><td>88</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-19</td><td>64</td><td>92</td><td>51</td><td>22</td><td>42</td><td>44</td><td>92</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-18</td><td>59</td><td>79</td><td>50</td><td>16</td><td>45</td><td>35</td><td>79</td><td>PM2,5</td><td>SEDANG</td><td>DKI1</td></tr>
+        <tr><td>202210</td><td>2022-10-17</td><td>56</td><td>85</td><td>51</td><td>13</td><td>54</td><td>25</td><td>85</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-16</td><td>62</td><td>93</td><td>51</td><td>19</td><td>52</td><td>36</td><td>93</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-15</td><td>55</td><td>78</td><td>51</td><td>13</td><td>58</td><td>27</td><td>78</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-14</td><td>67</td><td>94</td><td>50</td><td>28</td><td>47</td><td>45</td><td>94</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-13</td><td>63</td><td>91</td><td>52</td><td>17</td><td>54</td><td>36</td><td>91</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-12</td><td>70</td><td>97</td><td>54</td><td>27</td><td>44</td><td>42</td><td>97</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-11</td><td>77</td><td>126</td><td>51</td><td>23</td><td>59</td><td>45</td><td>126</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-10</td><td>54</td><td>74</td><td>50</td><td>14</td><td>38</td><td>25</td><td>74</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-09</td><td>58</td><td>95</td><td>50</td><td>24</td><td>39</td><td>35</td><td>95</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-08</td><td>35</td><td>61</td><td>50</td><td>17</td><td>28</td><td>25</td><td>61</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202210</td><td>2022-10-07</td><td>51</td><td>66</td><td>53</td><td>17</td><td>35</td><td>34</td><td>66</td><td>PM2,5</td><td>SEDANG</td><td>DKI1</td></tr>
+        <tr><td>202210</td><td>2022-10-06</td><td>61</td><td>89</td><td>51</td><td>20</td><td>39</td><td>32</td><td>89</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-05</td><td>51</td><td>68</td><td>50</td><td>22</td><td>36</td><td>42</td><td>68</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-04</td><td>67</td><td>98</td><td>51</td><td>15</td><td>40</td><td>33</td><td>98</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-03</td><td>56</td><td>76</td><td>51</td><td>18</td><td>38</td><td>35</td><td>76</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202210</td><td>2022-10-02</td><td>54</td><td>79</td><td>50</td><td>12</td><td>43</td><td>19</td><td>79</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-01</td><td>80</td><td>128</td><td>52</td><td>14</td><td>39</td><td>21</td><td>128</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-27</td><td>41</td><td>66</td><td>51</td><td>18</td><td>35</td><td>27</td><td>66</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-28</td><td>54</td><td>77</td><td>51</td><td>16</td><td>33</td><td>32</td><td>77</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-29</td><td>53</td><td>86</td><td>51</td><td>15</td><td>41</td><td>29</td><td>86</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-30</td><td>51</td><td>87</td><td>51</td><td>11</td><td>49</td><td>19</td><td>87</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202210</td><td>2022-10-31</td><td>60</td><td>78</td><td>51</td><td>21</td><td>44</td><td>22</td><td>78</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-01</td><td>49</td><td>70</td><td>51</td><td>10</td><td>44</td><td>21</td><td>70</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-02</td><td>84</td><td>144</td><td>51</td><td>14</td><td>54</td><td>34</td><td>144</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-03</td><td>65</td><td>89</td><td>51</td><td>13</td><td>49</td><td>23</td><td>89</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-04</td><td>66</td><td>95</td><td>52</td><td>23</td><td>49</td><td>42</td><td>95</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-05</td><td>62</td><td>81</td><td>51</td><td>22</td><td>55</td><td>42</td><td>81</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-06</td><td>63</td><td>90</td><td>51</td><td>18</td><td>38</td><td>34</td><td>90</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202211</td><td>2022-11-07</td><td>74</td><td>104</td><td>51</td><td>13</td><td>48</td><td>22</td><td>104</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-08</td><td>66</td><td>101</td><td>53</td><td>30</td><td>36</td><td>50</td><td>101</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI3</td></tr>
+        <tr><td>202211</td><td>2022-11-09</td><td>64</td><td>96</td><td>51</td><td>25</td><td>41</td><td>47</td><td>96</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-10</td><td>53</td><td>76</td><td>51</td><td>18</td><td>29</td><td>30</td><td>76</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202211</td><td>2022-11-11</td><td>46</td><td>71</td><td>51</td><td>19</td><td>31</td><td>25</td><td>71</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-12</td><td>40</td><td>61</td><td>51</td><td>11</td><td>36</td><td>18</td><td>61</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202211</td><td>2022-11-13</td><td>38</td><td>63</td><td>51</td><td>17</td><td>38</td><td>27</td><td>63</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-14</td><td>60</td><td>85</td><td>51</td><td>17</td><td>44</td><td>28</td><td>85</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-15</td><td>59</td><td>95</td><td>51</td><td>16</td><td>39</td><td>33</td><td>95</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-16</td><td>54</td><td>80</td><td>52</td><td>10</td><td>31</td><td>22</td><td>80</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202211</td><td>2022-11-17</td><td>58</td><td>72</td><td>52</td><td>12</td><td>35</td><td>25</td><td>72</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-18</td><td>42</td><td>53</td><td>53</td><td>16</td><td>29</td><td>27</td><td>53</td><td>PM2,5</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202211</td><td>2022-11-19</td><td>47</td><td>77</td><td>56</td><td>12</td><td>27</td><td>24</td><td>77</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-20</td><td>34</td><td>51</td><td>51</td><td>7</td><td>30</td><td>12</td><td>51</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-21</td><td>40</td><td>62</td><td>51</td><td>11</td><td>29</td><td>19</td><td>62</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202211</td><td>2022-11-22</td><td>46</td><td>72</td><td>51</td><td>10</td><td>26</td><td>15</td><td>72</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202211</td><td>2022-11-23</td><td>50</td><td>71</td><td>52</td><td>11</td><td>29</td><td>23</td><td>71</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202211</td><td>2022-11-24</td><td>51</td><td>66</td><td>52</td><td>10</td><td>34</td><td>24</td><td>66</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-25</td><td>52</td><td>77</td><td>52</td><td>15</td><td>38</td><td>26</td><td>77</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-26</td><td>80</td><td>131</td><td>51</td><td>20</td><td>42</td><td>45</td><td>131</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-27</td><td>74</td><td>112</td><td>52</td><td>24</td><td>37</td><td>36</td><td>112</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-28</td><td>59</td><td>83</td><td>51</td><td>14</td><td>50</td><td>31</td><td>83</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-29</td><td>53</td><td>73</td><td>51</td><td>22</td><td>48</td><td>32</td><td>73</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202211</td><td>2022-11-30</td><td>65</td><td>97</td><td>52</td><td>13</td><td>40</td><td>31</td><td>97</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-01</td><td>64</td><td>93</td><td>52</td><td>17</td><td>50</td><td>31</td><td>93</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-02</td><td>60</td><td>94</td><td>52</td><td>18</td><td>42</td><td>30</td><td>94</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-03</td><td>60</td><td>100</td><td>52</td><td>16</td><td>49</td><td>31</td><td>100</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-04</td><td>65</td><td>95</td><td>52</td><td>19</td><td>45</td><td>34</td><td>95</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-05</td><td>74</td><td>117</td><td>52</td><td>19</td><td>48</td><td>33</td><td>117</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-06</td><td>70</td><td>107</td><td>49</td><td>24</td><td>41</td><td>44</td><td>107</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-07</td><td>53</td><td>88</td><td>52</td><td>21</td><td>37</td><td>40</td><td>88</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-08</td><td>51</td><td>85</td><td>52</td><td>16</td><td>47</td><td>35</td><td>85</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-09</td><td>59</td><td>94</td><td>51</td><td>21</td><td>31</td><td>41</td><td>94</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202212</td><td>2022-12-10</td><td>42</td><td>72</td><td>52</td><td>27</td><td>29</td><td>35</td><td>72</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-11</td><td>44</td><td>72</td><td>52</td><td>20</td><td>31</td><td>32</td><td>72</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-12</td><td>37</td><td>62</td><td>51</td><td>10</td><td>32</td><td>22</td><td>62</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-13</td><td>47</td><td>71</td><td>51</td><td>13</td><td>28</td><td>23</td><td>71</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202212</td><td>2022-12-14</td><td>46</td><td>71</td><td>51</td><td>10</td><td>30</td><td>17</td><td>71</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202212</td><td>2022-12-15</td><td>28</td><td>60</td><td>52</td><td>10</td><td>29</td><td>23</td><td>60</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-16</td><td>56</td><td>83</td><td>52</td><td>12</td><td>28</td><td>30</td><td>83</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-17</td><td>65</td><td>98</td><td>52</td><td>30</td><td>38</td><td>45</td><td>98</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-18</td><td>64</td><td>96</td><td>52</td><td>26</td><td>46</td><td>45</td><td>96</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-19</td><td>64</td><td>99</td><td>57</td><td>28</td><td>39</td><td>48</td><td>99</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-20</td><td>85</td><td>154</td><td>54</td><td>23</td><td>29</td><td>47</td><td>154</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-21</td><td>57</td><td>86</td><td>62</td><td>45</td><td>27</td><td>32</td><td>86</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202212</td><td>2022-12-22</td><td>49</td><td>65</td><td>59</td><td>49</td><td>23</td><td>24</td><td>65</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202212</td><td>2022-12-23</td><td>31</td><td>40</td><td>57</td><td>38</td><td>24</td><td>18</td><td>57</td><td>SO2</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202212</td><td>2022-12-24</td><td>58</td><td>92</td><td>57</td><td>55</td><td>26</td><td>24</td><td>92</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202212</td><td>2022-12-25</td><td>42</td><td>56</td><td>57</td><td>45</td><td>25</td><td>18</td><td>57</td><td>SO2</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202212</td><td>2022-12-26</td><td>43</td><td>62</td><td>58</td><td>54</td><td>25</td><td>27</td><td>62</td><td>PM2,5</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202212</td><td>2022-12-27</td><td>36</td><td>47</td><td>58</td><td>42</td><td>20</td><td>18</td><td>58</td><td>SO2</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202212</td><td>2022-12-28</td><td>46</td><td>66</td><td>57</td><td>41</td><td>15</td><td>19</td><td>66</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202212</td><td>2022-12-29</td><td>23</td><td>50</td><td>57</td><td>12</td><td>16</td><td>15</td><td>57</td><td>SO2</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202201</td><td>2022-01-11</td><td>46</td><td>60</td><td>53</td><td>12</td><td>37</td><td>28</td><td>60</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-10</td><td>60</td><td>87</td><td>51</td><td>13</td><td>36</td><td>26</td><td>87</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-09</td><td>56</td><td>82</td><td>52</td><td>14</td><td>39</td><td>27</td><td>82</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-08</td><td>55</td><td>77</td><td>52</td><td>17</td><td>41</td><td>29</td><td>77</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-07</td><td>71</td><td>113</td><td>48</td><td>22</td><td>38</td><td>41</td><td>113</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-06</td><td>73</td><td>117</td><td>53</td><td>16</td><td>48</td><td>42</td><td>117</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-05</td><td>95</td><td>165</td><td>53</td><td>18</td><td>55</td><td>32</td><td>165</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-04</td><td>59</td><td>102</td><td>51</td><td>14</td><td>51</td><td>26</td><td>102</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-03</td><td>49</td><td>80</td><td>49</td><td>13</td><td>37</td><td>21</td><td>80</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-02</td><td>40</td><td>70</td><td>45</td><td>10</td><td>36</td><td>11</td><td>70</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-01</td><td>64</td><td>89</td><td>52</td><td>13</td><td>76</td><td>21</td><td>89</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202202</td><td>2020-02-28</td><td>27</td><td>50</td><td>40</td><td>12</td><td>30</td><td>11</td><td>50</td><td>PM2,5</td><td>BAIK</td><td>DKI5</td></tr>
+        <tr><td>202202</td><td>2020-02-27</td><td>31</td><td>51</td><td>39</td><td>14</td><td>30</td><td>12</td><td>51</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-26</td><td>40</td><td>60</td><td>39</td><td>15</td><td>28</td><td>16</td><td>60</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-25</td><td>50</td><td>59</td><td>40</td><td>15</td><td>28</td><td>17</td><td>59</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202202</td><td>2020-02-24</td><td>45</td><td>71</td><td>41</td><td>14</td><td>38</td><td>21</td><td>71</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-23</td><td>55</td><td>87</td><td>49</td><td>16</td><td>43</td><td>38</td><td>87</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-22</td><td>54</td><td>92</td><td>42</td><td>13</td><td>56</td><td>35</td><td>92</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-21</td><td>54</td><td>86</td><td>41</td><td>21</td><td>50</td><td>35</td><td>86</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202202</td><td>2020-02-20</td><td>70</td><td>115</td><td>47</td><td>26</td><td>62</td><td>36</td><td>115</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-19</td><td>67</td><td>108</td><td>44</td><td>23</td><td>69</td><td>37</td><td>108</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-18</td><td>65</td><td>118</td><td>47</td><td>18</td><td>67</td><td>30</td><td>118</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-17</td><td>53</td><td>74</td><td>45</td><td>19</td><td>86</td><td>29</td><td>86</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202202</td><td>2020-02-16</td><td>66</td><td>110</td><td>48</td><td>24</td><td>62</td><td>33</td><td>110</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI5</td></tr>
+        <tr><td>202202</td><td>2020-02-15</td><td>74</td><td>119</td><td>52</td><td>33</td><td>61</td><td>38</td><td>119</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI3</td></tr>
+        <tr><td>202202</td><td>2020-02-14</td><td>66</td><td>109</td><td>51</td><td>29</td><td>49</td><td>39</td><td>109</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-13</td><td>70</td><td>98</td><td>41</td><td>19</td><td>55</td><td>29</td><td>98</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202202</td><td>2020-02-12</td><td>52</td><td>68</td><td>42</td><td>14</td><td>55</td><td>29</td><td>68</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202202</td><td>2020-02-11</td><td>62</td><td>95</td><td>48</td><td>20</td><td>48</td><td>33</td><td>95</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202202</td><td>2020-02-10</td><td>24</td><td>47</td><td>41</td><td>12</td><td>49</td><td>23</td><td>49</td><td>O3</td><td>BAIK</td><td>DKI2</td></tr>
+        <tr><td>202201</td><td>2022-01-01</td><td>57</td><td>85</td><td>48</td><td>13</td><td>34</td><td>18</td><td>85</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-31</td><td>72</td><td>119</td><td>58</td><td>44</td><td>53</td><td>44</td><td>119</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-30</td><td>75</td><td>129</td><td>53</td><td>25</td><td>59</td><td>50</td><td>129</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-29</td><td>65</td><td>120</td><td>52</td><td>30</td><td>52</td><td>46</td><td>120</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-28</td><td>63</td><td>84</td><td>52</td><td>12</td><td>60</td><td>28</td><td>84</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-27</td><td>58</td><td>75</td><td>47</td><td>14</td><td>48</td><td>25</td><td>75</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-26</td><td>38</td><td>56</td><td>45</td><td>14</td><td>57</td><td>24</td><td>57</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202201</td><td>2022-01-25</td><td>41</td><td>58</td><td>46</td><td>9</td><td>51</td><td>19</td><td>58</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-24</td><td>57</td><td>74</td><td>48</td><td>11</td><td>58</td><td>18</td><td>74</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-23</td><td>57</td><td>73</td><td>50</td><td>11</td><td>35</td><td>15</td><td>73</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-22</td><td>52</td><td>73</td><td>51</td><td>12</td><td>39</td><td>20</td><td>73</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-21</td><td>40</td><td>57</td><td>51</td><td>15</td><td>51</td><td>23</td><td>57</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-20</td><td>40</td><td>57</td><td>55</td><td>14</td><td>68</td><td>24</td><td>68</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202201</td><td>2022-01-19</td><td>45</td><td>61</td><td>45</td><td>15</td><td>69</td><td>22</td><td>69</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202201</td><td>2022-01-18</td><td>54</td><td>67</td><td>47</td><td>14</td><td>59</td><td>33</td><td>67</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-17</td><td>67</td><td>93</td><td>44</td><td>19</td><td>63</td><td>28</td><td>93</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202201</td><td>2022-01-16</td><td>67</td><td>102</td><td>47</td><td>20</td><td>65</td><td>32</td><td>102</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI5</td></tr>
+        <tr><td>202201</td><td>2022-01-15</td><td>55</td><td>69</td><td>51</td><td>15</td><td>68</td><td>29</td><td>69</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202201</td><td>2022-01-14</td><td>46</td><td>63</td><td>48</td><td>15</td><td>63</td><td>32</td><td>63</td><td>PM2,5</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202201</td><td>2022-01-13</td><td>38</td><td>62</td><td>52</td><td>15</td><td>63</td><td>32</td><td>63</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202201</td><td>2022-01-12</td><td>46</td><td>59</td><td>51</td><td>15</td><td>38</td><td>29</td><td>59</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-09</td><td>64</td><td>101</td><td>39</td><td>36</td><td>55</td><td>45</td><td>101</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-28</td><td>42</td><td>83</td><td>41</td><td>12</td><td>59</td><td>20</td><td>83</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-27</td><td>47</td><td>91</td><td>44</td><td>13</td><td>45</td><td>26</td><td>91</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-26</td><td>59</td><td>82</td><td>41</td><td>13</td><td>70</td><td>29</td><td>82</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-25</td><td>60</td><td>118</td><td>44</td><td>14</td><td>99</td><td>28</td><td>118</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-24</td><td>63</td><td>114</td><td>41</td><td>24</td><td>82</td><td>30</td><td>114</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-23</td><td>60</td><td>108</td><td>42</td><td>30</td><td>52</td><td>43</td><td>108</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-22</td><td>83</td><td>128</td><td>49</td><td>25</td><td>52</td><td>42</td><td>128</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-21</td><td>46</td><td>56</td><td>41</td><td>15</td><td>43</td><td>24</td><td>56</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202204</td><td>2022-04-20</td><td>61</td><td>105</td><td>42</td><td>18</td><td>69</td><td>34</td><td>105</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-19</td><td>52</td><td>78</td><td>41</td><td>13</td><td>84</td><td>29</td><td>84</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202204</td><td>2022-04-18</td><td>73</td><td>135</td><td>40</td><td>13</td><td>88</td><td>14</td><td>135</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-08</td><td>58</td><td>109</td><td>39</td><td>18</td><td>60</td><td>31</td><td>109</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-07</td><td>40</td><td>60</td><td>48</td><td>13</td><td>67</td><td>22</td><td>67</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202202</td><td>2020-02-06</td><td>39</td><td>51</td><td>58</td><td>15</td><td>57</td><td>21</td><td>58</td><td>SO2</td><td>SEDANG</td><td>DKI1</td></tr>
+        <tr><td>202202</td><td>2020-02-05</td><td>43</td><td>62</td><td>53</td><td>18</td><td>55</td><td>30</td><td>62</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202202</td><td>2020-02-04</td><td>54</td><td>72</td><td>46</td><td>12</td><td>68</td><td>27</td><td>72</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202202</td><td>2020-02-03</td><td>58</td><td>99</td><td>48</td><td>20</td><td>65</td><td>33</td><td>99</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202202</td><td>2020-02-02</td><td>66</td><td>101</td><td>47</td><td>22</td><td>64</td><td>26</td><td>101</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-01</td><td>27</td><td>50</td><td>44</td><td>11</td><td>17</td><td>12</td><td>50</td><td>PM2,5</td><td>BAIK</td><td>DKI5</td></tr>
+        <tr><td>202203</td><td>2022-03-31</td><td>95</td><td>160</td><td>49</td><td>34</td><td>137</td><td>34</td><td>160</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-30</td><td>75</td><td>119</td><td>42</td><td>20</td><td>109</td><td>35</td><td>119</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-29</td><td>61</td><td>117</td><td>44</td><td>17</td><td>52</td><td>31</td><td>117</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-28</td><td>49</td><td>62</td><td>40</td><td>12</td><td>59</td><td>28</td><td>62</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202203</td><td>2022-03-27</td><td>84</td><td>126</td><td>46</td><td>49</td><td>42</td><td>51</td><td>126</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI5</td></tr>
+        <tr><td>202203</td><td>2022-03-26</td><td>67</td><td>92</td><td>43</td><td>17</td><td>49</td><td>29</td><td>92</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-25</td><td>90</td><td>122</td><td>51</td><td>19</td><td>70</td><td>29</td><td>122</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI5</td></tr>
+        <tr><td>202203</td><td>2022-03-24</td><td>43</td><td>65</td><td>43</td><td>15</td><td>40</td><td>22</td><td>65</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-23</td><td>46</td><td>61</td><td>41</td><td>16</td><td>34</td><td>19</td><td>61</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202203</td><td>2022-03-22</td><td>50</td><td>63</td><td>38</td><td>12</td><td>35</td><td>17</td><td>63</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202203</td><td>2022-03-21</td><td>38</td><td>53</td><td>38</td><td>10</td><td>34</td><td>8</td><td>53</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-20</td><td>55</td><td>71</td><td>39</td><td>13</td><td>34</td><td>14</td><td>71</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-19</td><td>46</td><td>73</td><td>40</td><td>15</td><td>48</td><td>20</td><td>73</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-18</td><td>67</td><td>111</td><td>40</td><td>23</td><td>69</td><td>32</td><td>111</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-17</td><td>77</td><td>141</td><td>40</td><td>23</td><td>77</td><td>28</td><td>141</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-16</td><td>51</td><td>76</td><td>41</td><td>21</td><td>53</td><td>25</td><td>76</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-15</td><td>56</td><td>97</td><td>41</td><td>22</td><td>54</td><td>28</td><td>97</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-14</td><td>60</td><td>109</td><td>39</td><td>25</td><td>80</td><td>31</td><td>109</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-13</td><td>46</td><td>65</td><td>43</td><td>18</td><td>36</td><td>20</td><td>65</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202203</td><td>2022-03-12</td><td>50</td><td>59</td><td>39</td><td>13</td><td>41</td><td>21</td><td>59</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-11</td><td>77</td><td>107</td><td>46</td><td>23</td><td>52</td><td>52</td><td>107</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-10</td><td>60</td><td>112</td><td>42</td><td>24</td><td>79</td><td>40</td><td>112</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-09</td><td>50</td><td>75</td><td>40</td><td>20</td><td>58</td><td>28</td><td>75</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-08</td><td>55</td><td>102</td><td>40</td><td>15</td><td>45</td><td>25</td><td>102</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-07</td><td>29</td><td>53</td><td>37</td><td>13</td><td>37</td><td>13</td><td>53</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-06</td><td>53</td><td>90</td><td>38</td><td>21</td><td>28</td><td>18</td><td>90</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-05</td><td>48</td><td>68</td><td>40</td><td>17</td><td>36</td><td>22</td><td>68</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-04</td><td>32</td><td>53</td><td>41</td><td>13</td><td>45</td><td>20</td><td>53</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-03</td><td>30</td><td>55</td><td>43</td><td>12</td><td>35</td><td>18</td><td>55</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202203</td><td>2022-03-02</td><td>32</td><td>51</td><td>46</td><td>15</td><td>24</td><td>15</td><td>51</td><td>PM2,5</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202204</td><td>2022-04-01</td><td>74</td><td>114</td><td>47</td><td>19</td><td>76</td><td>38</td><td>114</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-30</td><td>39</td><td>53</td><td>38</td><td>16</td><td>17</td><td>6</td><td>53</td><td>PM2,5</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202204</td><td>2022-04-29</td><td>35</td><td>60</td><td>40</td><td>10</td><td>46</td><td>16</td><td>60</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-17</td><td>66</td><td>128</td><td>42</td><td>22</td><td>77</td><td>31</td><td>128</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-16</td><td>58</td><td>100</td><td>42</td><td>22</td><td>81</td><td>31</td><td>100</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-15</td><td>77</td><td>126</td><td>42</td><td>19</td><td>87</td><td>23</td><td>126</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-14</td><td>57</td><td>101</td><td>44</td><td>14</td><td>72</td><td>30</td><td>101</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-13</td><td>34</td><td>55</td><td>44</td><td>8</td><td>65</td><td>20</td><td>65</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202205</td><td>2022-05-12</td><td>61</td><td>85</td><td>54</td><td>13</td><td>63</td><td>25</td><td>85</td><td>PM2,5</td><td>SEDANG</td><td>DKI3</td></tr>
+        <tr><td>202205</td><td>2022-05-11</td><td>54</td><td>75</td><td>41</td><td>12</td><td>81</td><td>26</td><td>81</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202205</td><td>2022-05-10</td><td>54</td><td>86</td><td>50</td><td>17</td><td>74</td><td>28</td><td>86</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-09</td><td>58</td><td>95</td><td>44</td><td>12</td><td>73</td><td>24</td><td>95</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-08</td><td>63</td><td>98</td><td>42</td><td>19</td><td>76</td><td>21</td><td>98</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-07</td><td>56</td><td>92</td><td>41</td><td>12</td><td>82</td><td>13</td><td>92</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-06</td><td>39</td><td>73</td><td>42</td><td>10</td><td>58</td><td>12</td><td>73</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-05</td><td>53</td><td>102</td><td>41</td><td>13</td><td>72</td><td>20</td><td>102</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-04</td><td>51</td><td>85</td><td>41</td><td>11</td><td>77</td><td>18</td><td>85</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-03</td><td>36</td><td>58</td><td>40</td><td>13</td><td>58</td><td>23</td><td>58</td><td>PM2,5</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202205</td><td>2022-05-02</td><td>58</td><td>90</td><td>41</td><td>16</td><td>82</td><td>17</td><td>90</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-01</td><td>53</td><td>77</td><td>43</td><td>18</td><td>55</td><td>27</td><td>77</td><td>PM2,5</td><td>SEDANG</td><td>DKI5</td></tr>
+        <tr><td>202206</td><td>2022-06-30</td><td>68</td><td>117</td><td>48</td><td>13</td><td>84</td><td>26</td><td>117</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-29</td><td>59</td><td>79</td><td>46</td><td>14</td><td>72</td><td>32</td><td>79</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-28</td><td>57</td><td>82</td><td>46</td><td>16</td><td>82</td><td>29</td><td>82</td><td>PM2,5</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202206</td><td>2022-06-27</td><td>74</td><td>102</td><td>45</td><td>22</td><td>76</td><td>33</td><td>102</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-17</td><td>76</td><td>148</td><td>52</td><td>21</td><td>93</td><td>24</td><td>148</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-16</td><td>63</td><td>119</td><td>46</td><td>16</td><td>91</td><td>21</td><td>119</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-15</td><td>61</td><td>102</td><td>41</td><td>15</td><td>81</td><td>28</td><td>102</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-14</td><td>66</td><td>104</td><td>44</td><td>14</td><td>111</td><td>25</td><td>111</td><td>O3</td><td>TIDAK SEHAT</td><td>DKI2</td></tr>
+        <tr><td>202204</td><td>2022-04-13</td><td>78</td><td>116</td><td>42</td><td>21</td><td>118</td><td>40</td><td>118</td><td>O3</td><td>TIDAK SEHAT</td><td>DKI2</td></tr>
+        <tr><td>202204</td><td>2022-04-12</td><td>71</td><td>107</td><td>52</td><td>22</td><td>78</td><td>43</td><td>107</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-11</td><td>63</td><td>98</td><td>44</td><td>17</td><td>95</td><td>31</td><td>98</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-10</td><td>82</td><td>164</td><td>46</td><td>27</td><td>80</td><td>38</td><td>164</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-09</td><td>50</td><td>76</td><td>42</td><td>21</td><td>59</td><td>28</td><td>76</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-08</td><td>52</td><td>81</td><td>40</td><td>17</td><td>50</td><td>29</td><td>81</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-07</td><td>58</td><td>90</td><td>42</td><td>22</td><td>62</td><td>35</td><td>90</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-06</td><td>54</td><td>87</td><td>40</td><td>20</td><td>57</td><td>32</td><td>87</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-05</td><td>73</td><td>92</td><td>53</td><td>19</td><td>73</td><td>43</td><td>92</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-04</td><td>49</td><td>71</td><td>43</td><td>23</td><td>69</td><td>27</td><td>71</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-03</td><td>51</td><td>74</td><td>39</td><td>14</td><td>40</td><td>17</td><td>74</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202204</td><td>2022-04-02</td><td>61</td><td>99</td><td>42</td><td>18</td><td>70</td><td>28</td><td>99</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-01</td><td>66</td><td>126</td><td>48</td><td>24</td><td>61</td><td>26</td><td>126</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-31</td><td>63</td><td>100</td><td>44</td><td>44</td><td>59</td><td>44</td><td>100</td><td></td><td>SEDANG</td><td>0</td></tr>
+        <tr><td>202205</td><td>2022-05-30</td><td>51</td><td>89</td><td>45</td><td>17</td><td>58</td><td>31</td><td>89</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-29</td><td>64</td><td>107</td><td>43</td><td>23</td><td>65</td><td>40</td><td>107</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-28</td><td>57</td><td>105</td><td>43</td><td>17</td><td>82</td><td>33</td><td>105</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI3</td></tr>
+        <tr><td>202205</td><td>2022-05-27</td><td>79</td><td>146</td><td>52</td><td>25</td><td>76</td><td>35</td><td>146</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-26</td><td>57</td><td>93</td><td>45</td><td>15</td><td>52</td><td>26</td><td>93</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-25</td><td>74</td><td>121</td><td>48</td><td>16</td><td>58</td><td>27</td><td>121</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-24</td><td>58</td><td>98</td><td>46</td><td>11</td><td>54</td><td>21</td><td>98</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-23</td><td>68</td><td>123</td><td>47</td><td>17</td><td>53</td><td>24</td><td>123</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-22</td><td>58</td><td>110</td><td>44</td><td>17</td><td>55</td><td>25</td><td>110</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-21</td><td>58</td><td>82</td><td>44</td><td>20</td><td>58</td><td>32</td><td>82</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-20</td><td>70</td><td>128</td><td>43</td><td>24</td><td>71</td><td>43</td><td>128</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-19</td><td>75</td><td>136</td><td>43</td><td>28</td><td>64</td><td>46</td><td>136</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202205</td><td>2022-05-18</td><td>62</td><td>99</td><td>42</td><td>15</td><td>89</td><td>24</td><td>99</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-26</td><td>68</td><td>106</td><td>45</td><td>22</td><td>69</td><td>36</td><td>106</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-25</td><td>82</td><td>131</td><td>46</td><td>23</td><td>60</td><td>31</td><td>131</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-24</td><td>85</td><td>123</td><td>46</td><td>22</td><td>77</td><td>38</td><td>123</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-23</td><td>82</td><td>119</td><td>46</td><td>19</td><td>68</td><td>32</td><td>119</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-22</td><td>71</td><td>123</td><td>47</td><td>17</td><td>72</td><td>27</td><td>123</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-21</td><td>79</td><td>114</td><td>47</td><td>18</td><td>70</td><td>32</td><td>114</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-20</td><td>78</td><td>131</td><td>45</td><td>17</td><td>99</td><td>27</td><td>131</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-19</td><td>73</td><td>118</td><td>47</td><td>23</td><td>82</td><td>37</td><td>118</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-18</td><td>75</td><td>117</td><td>45</td><td>30</td><td>58</td><td>42</td><td>117</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-17</td><td>85</td><td>130</td><td>45</td><td>25</td><td>50</td><td>37</td><td>130</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-16</td><td>79</td><td>146</td><td>46</td><td>32</td><td>50</td><td>45</td><td>146</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-15</td><td>80</td><td>141</td><td>45</td><td>25</td><td>44</td><td>43</td><td>141</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-14</td><td>75</td><td>112</td><td>49</td><td>27</td><td>52</td><td>50</td><td>112</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-13</td><td>61</td><td>97</td><td>46</td><td>22</td><td>71</td><td>38</td><td>97</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-12</td><td>61</td><td>112</td><td>45</td><td>22</td><td>71</td><td>33</td><td>112</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-11</td><td>58</td><td>92</td><td>45</td><td>15</td><td>67</td><td>28</td><td>92</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-10</td><td>56</td><td>82</td><td>44</td><td>26</td><td>49</td><td>36</td><td>82</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-09</td><td>65</td><td>97</td><td>51</td><td>27</td><td>34</td><td>46</td><td>97</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-08</td><td>65</td><td>110</td><td>44</td><td>18</td><td>54</td><td>25</td><td>110</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-07</td><td>61</td><td>76</td><td>44</td><td>18</td><td>50</td><td>32</td><td>76</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-06</td><td>64</td><td>111</td><td>44</td><td>21</td><td>62</td><td>35</td><td>111</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-05</td><td>62</td><td>116</td><td>45</td><td>15</td><td>87</td><td>27</td><td>116</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-04</td><td>78</td><td>136</td><td>44</td><td>26</td><td>92</td><td>51</td><td>136</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202206</td><td>2022-06-03</td><td>51</td><td>68</td><td>44</td><td>20</td><td>72</td><td>36</td><td>72</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202206</td><td>2022-06-02</td><td>56</td><td>100</td><td>44</td><td>15</td><td>76</td><td>33</td><td>100</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-01</td><td>73</td><td>111</td><td>49</td><td>15</td><td>87</td><td>31</td><td>111</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-31</td><td>80</td><td>143</td><td>49</td><td>17</td><td>115</td><td>27</td><td>143</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-30</td><td>66</td><td>118</td><td>49</td><td>15</td><td>95</td><td>22</td><td>118</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-29</td><td>74</td><td>123</td><td>50</td><td>12</td><td>86</td><td>22</td><td>123</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-28</td><td>82</td><td>132</td><td>50</td><td>16</td><td>90</td><td>30</td><td>132</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-27</td><td>70</td><td>116</td><td>50</td><td>14</td><td>118</td><td>24</td><td>118</td><td>O3</td><td>TIDAK SEHAT</td><td>DKI2</td></tr>
+        <tr><td>202207</td><td>2022-07-26</td><td>67</td><td>110</td><td>49</td><td>16</td><td>85</td><td>20</td><td>110</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-25</td><td>56</td><td>87</td><td>46</td><td>16</td><td>91</td><td>24</td><td>91</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202207</td><td>2022-07-24</td><td>54</td><td>82</td><td>47</td><td>14</td><td>94</td><td>21</td><td>94</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202207</td><td>2022-07-23</td><td>61</td><td>99</td><td>50</td><td>14</td><td>67</td><td>19</td><td>99</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-22</td><td>74</td><td>121</td><td>50</td><td>17</td><td>96</td><td>25</td><td>121</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-21</td><td>75</td><td>110</td><td>50</td><td>15</td><td>114</td><td>28</td><td>114</td><td>O3</td><td>TIDAK SEHAT</td><td>DKI2</td></tr>
+        <tr><td>202207</td><td>2022-07-20</td><td>76</td><td>124</td><td>49</td><td>18</td><td>94</td><td>26</td><td>124</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-19</td><td>75</td><td>114</td><td>50</td><td>15</td><td>98</td><td>25</td><td>114</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-18</td><td>75</td><td>143</td><td>48</td><td>30</td><td>84</td><td>36</td><td>143</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-17</td><td>59</td><td>89</td><td>48</td><td>28</td><td>51</td><td>36</td><td>89</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-16</td><td>36</td><td>59</td><td>46</td><td>15</td><td>48</td><td>31</td><td>59</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-15</td><td>58</td><td>86</td><td>49</td><td>12</td><td>65</td><td>18</td><td>86</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-14</td><td>85</td><td>125</td><td>47</td><td>25</td><td>57</td><td>33</td><td>125</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-13</td><td>69</td><td>114</td><td>48</td><td>16</td><td>65</td><td>29</td><td>114</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-12</td><td>77</td><td>123</td><td>49</td><td>17</td><td>84</td><td>28</td><td>123</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-11</td><td>66</td><td>112</td><td>47</td><td>15</td><td>84</td><td>29</td><td>112</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-10</td><td>63</td><td>93</td><td>47</td><td>13</td><td>84</td><td>19</td><td>93</td><td>PM2,5</td><td>SEDANG</td><td>DKI4</td></tr>
+        <tr><td>202207</td><td>2022-07-09</td><td>61</td><td>93</td><td>48</td><td>13</td><td>107</td><td>25</td><td>107</td><td>O3</td><td>TIDAK SEHAT</td><td>DKI2</td></tr>
+        <tr><td>202207</td><td>2022-07-08</td><td>55</td><td>80</td><td>48</td><td>17</td><td>95</td><td>25</td><td>95</td><td>O3</td><td>SEDANG</td><td>DKI2</td></tr>
+        <tr><td>202207</td><td>2022-07-07</td><td>94</td><td>135</td><td>46</td><td>29</td><td>74</td><td>44</td><td>135</td><td>PM2,5</td><td>TIDAK SEHAT</td><td>DKI3</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

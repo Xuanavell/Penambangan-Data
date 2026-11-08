@@ -1,0 +1,15 @@
+,,,F1_Macro,F1_Macro,Test_Accuracy,Test_Accuracy,Selisih_Akurasi,Selisih_F1_Macro
+Skema_Split,,,Random Split (80:20),Temporal Split (80:20),Random Split (80:20),Temporal Split (80:20),,
+Dataset,Skenario,Algoritma,,,,,,
+Dataset 2022,Skenario A: 6 Parameter Polutan (Tanpa Max),Random Forest,66.3,66.41,98.63,98.63,0.0,-0.11
+Dataset 2022,Skenario A: 6 Parameter Polutan (Tanpa Max),XGBoost,100.0,65.88,100.0,95.89,4.11,34.12
+Dataset 2022,Skenario B: 6 Polutan + Fitur Max (Uji Data Leakage),Random Forest,66.3,66.41,98.63,98.63,0.0,-0.11
+Dataset 2022,Skenario B: 6 Polutan + Fitur Max (Uji Data Leakage),XGBoost,100.0,65.88,100.0,95.89,4.11,34.12
+Dataset 2022,Skenario C: Prediksi Kategori H+1 (Uji Autokorelasi),Random Forest,43.64,37.14,66.67,87.5,-20.83,6.5
+Dataset 2022,Skenario C: Prediksi Kategori H+1 (Uji Autokorelasi),XGBoost,41.61,36.74,63.89,79.17,-15.28,4.87
+Dataset 2024-2025,Skenario A: 6 Parameter Polutan (Tanpa Max),Random Forest,97.18,99.41,98.28,99.71,-1.43,-2.23
+Dataset 2024-2025,Skenario A: 6 Parameter Polutan (Tanpa Max),XGBoost,96.98,100.0,98.13,100.0,-1.87,-3.02
+Dataset 2024-2025,Skenario B: 6 Polutan + Fitur Max (Uji Data Leakage),Random Forest,98.58,100.0,99.14,100.0,-0.86,-1.42
+Dataset 2024-2025,Skenario B: 6 Polutan + Fitur Max (Uji Data Leakage),XGBoost,98.58,100.0,99.14,100.0,-0.86,-1.42
+Dataset 2024-2025,Skenario C: Prediksi Kategori H+1 (Uji Autokorelasi),Random Forest,55.88,53.25,81.29,83.88,-2.59,2.63
+Dataset 2024-2025,Skenario C: Prediksi Kategori H+1 (Uji Autokorelasi),XGBoost,56.8,54.56,80.29,82.16,-1.87,2.24

@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "D:\\laragon\\bin\\python\\python-3.13\\python.exe",
+    "jupyter.kernels.excludePythonEnvironments": [
+        "C:\\Users\\ASUS TUF GAMING A15\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+        "C:\\Users\\ASUS TUF GAMING A15\\AppData\\Local\\Microsoft\\WindowsApps\\python3.exe"
+    ],
+    "code-runner.executorMap": {
+        "python": "& \"D:\\laragon\\bin\\python\\python-3.13\\python.exe\" -u"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.fileDirectoryAsCwd": true
+}
